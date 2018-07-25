@@ -1,5 +1,5 @@
-name = H5P custom
-description = Adds custom code to h5p elements.
+name = H5P Customisation (CSS Overrides + utilities)
+description = Adds custom code to h5p elements. Module forked by Drawcard: https://github.com/drawcard/customh5p/
 package = My Modules
 dependencies[] = h5p
 core = 7.x
